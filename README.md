@@ -1,6 +1,6 @@
 # MOBDEVE-MachineProject
 
-The latest code can be found in MP-ver7.zip
+The final code is MOBDEVE Group 29 GoToSleep.zip
 
 ## Authors
 
