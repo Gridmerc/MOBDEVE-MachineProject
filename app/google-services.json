@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272493636502",
+    "firebase_url": "https://gotosleepmp-b9dce-default-rtdb.firebaseio.com",
+    "project_id": "gotosleepmp-b9dce",
+    "storage_bucket": "gotosleepmp-b9dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272493636502:android:34cef1c1a73b2114a90bb7",
+        "android_client_info": {
+          "package_name": "com.mobdeve.s13.s11.group29.mp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272493636502-u7guqajp6g812svc445oris5o9luqc69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KZUnHTAx8LSVvO05eWWlx8AYa1L2OXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272493636502-u7guqajp6g812svc445oris5o9luqc69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

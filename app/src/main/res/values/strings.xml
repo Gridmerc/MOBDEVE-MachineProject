@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">GoToSleep</string>
+    <string name="add">Add Sleep Record</string>
+    <string name="birthday">Birthday</string>
+    <string name="edit">Edit Profile</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="re_to_login">Already have an account? Login here</string>
+    <string name="re_to_register">New here? Create an account</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="update">Update</string>
+    <string name="welcome">Welcome!</string>
+
+    <dimen name="bed_width">100dp</dimen>
+    <dimen name="bed_height">100dp</dimen>
 </resources>
